@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "650270247627",
+    "project_id": "locadorasenac",
+    "storage_bucket": "locadorasenac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650270247627:android:218b2aa1dd2e476e90694e",
+        "android_client_info": {
+          "package_name": "com.mycompany.senac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650270247627-4v46i7mmkjmqct2q5t8a0nlk4unjn2ue.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.senac",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "650270247627-852t5njuu1fupu106hh4ukmqacnoacol.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.senac",
+            "certificate_hash": "3529d5efff0fb34dde2e07341a6fe083523f079f"
+          }
+        },
+        {
+          "client_id": "650270247627-ig9jjmd3kbsg35eus67qnfdn5djv62qf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfwSN39uLiTPOoFiaQqxe_3UrE9sP1SR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650270247627-ig9jjmd3kbsg35eus67qnfdn5djv62qf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "650270247627-j3uqbdvu6opkbgrr2lfvv0lto0r1p5cu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.senac"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
